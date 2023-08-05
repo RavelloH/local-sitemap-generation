@@ -30,7 +30,7 @@ jobs:
             - name: 'Sitemap'
               run: |
                   node fileList.js
-                  npx sitemap < ../assets/data/urlList.txt > ../sitemap.xml
+                  npx sitemap < .urlList.txt > ./sitemap.xml
 
             - name: 'Commit files'
               continue-on-error: True
