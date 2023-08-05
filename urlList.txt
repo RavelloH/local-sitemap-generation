@@ -1,0 +1,4 @@
+https://yourdomain.com/examplepage.html
+https://yourdomain.com/example/document.html
+https://yourdomain.com/example/image.jpg
+https://yourdomain.com/example/folder/movie.mp4
