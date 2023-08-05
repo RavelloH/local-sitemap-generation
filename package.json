@@ -1,0 +1,15 @@
+{
+  "name": "local-sitemap-generation",
+  "version": "1.0.0",
+  "description": "使用本地文件生成sitemap，支持workflow自动持续构建",
+  "main": "fileList.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
